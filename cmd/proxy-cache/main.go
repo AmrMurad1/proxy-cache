@@ -1,0 +1,4 @@
+package proxycache
+
+func main() {
+}
